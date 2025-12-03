@@ -42,15 +42,3 @@ Identifying customers with no purchase history
 Calculating total sales per employee
 
 Finding high-value orders above a threshold while excluding specific products
-
-Structure
-
-The repository contains:
-
-A SQL file with all queries
-
-Notes explaining query decisions where relevant
-
-Sample outputs for selected questions
-
-This project highlights the ability to translate business requirements into accurate SQL queries and extract meaningful information from transactional data.
