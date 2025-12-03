@@ -1,4 +1,5 @@
-[![90-second Project Breakdown](https://img.youtube.com/vi/LB9Mj7r1BBY/maxresdefault.jpg)]([[https://youtu.be/7lbdTC3QQJs](https://www.youtube.com/watch?v=LB9Mj7r1BBY)](https://www.youtube.com/watch?v=LB9Mj7r1BBY))
+[![Video Overview](https://img.youtube.com/vi/LB9Mj7r1BBY/0.jpg)](https://www.youtube.com/watch?v=LB9Mj7r1BBY)
+
 
 
 This project analyzes a relational sales dataset using SQL to answer twenty business questions. The goal is to demonstrate practical SQL skills, including joins, aggregation, grouping, filtering logic, and handling incomplete data with outer joins.
