@@ -1,4 +1,5 @@
-[![Video Overview](https://img.youtube.com/vi/LB9Mj7r1BBY/0.jpg)](https://www.youtube.com/watch?v=LB9Mj7r1BBY)
+[![Project Video Overview](https://img.youtube.com/vi/LB9Mj7r1BBY/maxresdefault.jpg)](https://www.youtube.com/watch?v=LB9Mj7r1BBY)
+
 
 
 
